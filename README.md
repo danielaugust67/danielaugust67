@@ -1,7 +1,7 @@
 <h1 align="center"> <b>Hi ✋, I'm Daniel Augustian Girsang </b> </h1>
 <h3 align="center">Information Systems Student at Del Institute of Technology</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=interested+in+website+software" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=interested+in+website+and+software" alt="Typing SVG" /></a>
 
 
 ---  
