@@ -1,9 +1,6 @@
 <h1 align="center"> <b>Hi ✋, I'm Daniel Augustian Girsang </b> </h1>
 <h3 align="center">Information Systems Student at Del Institute of Technology</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=interested+in+website+and+software+development" alt="Typing SVG" /></a>
-
-
 ---  
 Passionate Information System student with a flair for crafting digital experiences through website development and software creation. Transforming intricate codes into seamless user interfaces is my forte, and I thrive on the dynamic challenges of the tech realm. Aspiring to innovate and redefine the digital landscape, I blend creativity with precision in every line of code. Join me on this exciting journey of turning ideas into functional and captivating realities. 
 ---
