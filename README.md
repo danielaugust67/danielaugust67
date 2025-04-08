@@ -2,7 +2,7 @@
 <h3 align="center">Information Systems Student at Del Institute of Technology</h3>
 
 ---  
-Passionate Information System student with a flair for crafting digital experiences through website development and software creation. Transforming intricate codes into seamless user interfaces is my forte, and I thrive on the dynamic challenges of the tech realm. Aspiring to innovate and redefine the digital landscape, I blend creativity with precision in every line of code. Join me on this exciting journey of turning ideas into functional and captivating realities. 
+Passionate Information System student with a flair for crafting digital experiences through website development and software creation. Transforming intricate codes into seamless user interfaces is my forte, and I thrive on the dynamic challenges of the tech realm. Aspiring to innovate and redefine the digital landscape, I blend creativity with precision in every line of code. 
 ---
 
 About me 👇
